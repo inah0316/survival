@@ -1,3 +1,3 @@
 # survival
 
-edit test
+start
